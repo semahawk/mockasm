@@ -1,0 +1,4 @@
+mockasm
+*.o
+*.tab.*
+*.yy.*
